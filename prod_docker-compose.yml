@@ -1,0 +1,108 @@
+version: '3'
+
+services:
+  django:
+    build:
+      context: .
+      dockerfile: ./compose/production/django/Dockerfile
+    container_name: scoap3_prod_django
+    depends_on:
+      - db
+      - redis
+    env_file:
+      - .envs/.prod
+    ports:
+      - '0.0.0.0:8080:8080'
+    command: sh -c 'rm -rf staticfiles/ && poetry run python manage.py collectstatic --noinput && gunicorn -b 0.0.0.0:8080 config.wsgi '
+    networks:
+      - djangonetwork
+
+
+  # django: &django
+  #   build:
+  #     context: .
+  #     dockerfile: ./compose/production/django/Dockerfile
+  #   container_name: scoap3_prod_django
+  #   restart: always
+  #   links:
+  #       - db:db
+  #   depends_on:
+  #     - db
+  #     - redis
+  #     - mq
+  #   volumes:
+  #     - .:/app:z
+  #   env_file:
+  #     - .envs/.prod
+  #   ports:
+  #     - '8080:8080'
+  #   tty: true
+  #   command: sh -c 'rm -rf staticfiles/ && poetry run python manage.py collectstatic --noinput && /usr/local/bin/gunicorn config.wsgi --bind 0.0.0.0:8080 --chdir=/app'
+  #   #command: poetry run python manage.py runserver 0.0.0.0:8080
+  #   networks:
+  #     - djangonetwork
+
+  db:
+    image: postgres:14.1
+    restart: always
+    container_name: scoap3_local_db
+    env_file:
+      - .envs/.prod
+    ports:
+      - '5432:5432'
+    networks:
+      - djangonetwork
+
+  redis:
+    image: redis:6
+    container_name: scoap3_local_redis
+    restart: 'always'
+    read_only: true
+    ports:
+      - '6379:6379'
+    networks:
+      - djangonetwork
+
+  mq:
+    image: rabbitmq:3.9.11-management
+    restart: 'always'
+    container_name: scoap3_local_mq
+    ports:
+      - '5672:5672'
+    networks:
+      - djangonetwork
+
+  mailhog:
+    image: mailhog/mailhog:v1.0.0
+    container_name: scoap3_local_mailhog
+    ports:
+      - '8025:8025'
+    networks:
+      - djangonetwork
+
+  s3:
+    image: adobe/s3mock
+    container_name: scoap3_local_s3
+    ports:
+      - 9090:9090
+    networks:
+      - djangonetwork
+    environment:
+      - initialBuckets=scoap3-backend-qa
+
+
+  kent:
+    build:
+      context: .
+      dockerfile: ./compose/local/kent/Dockerfile
+    container_name: scoap3_local_kent
+    ports:
+      - 8000:8000
+    networks:
+      - djangonetwork
+    command: run --host 0.0.0.0 --port 8000
+
+
+networks:
+    djangonetwork:
+        driver: bridge
