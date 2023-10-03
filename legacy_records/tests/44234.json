@@ -1,0 +1,132 @@
+{
+    "_updated": "2022-06-27T08:05:14.909649+00:00",
+    "page_nr": [
+        9
+    ],
+    "acquisition_source": {
+        "date": "2022-06-27T07:10:37.661278",
+        "source": "APS",
+        "method": "APS",
+        "submission_number": "9223d0b2f5e711ecbdeae2bc11667146"
+    },
+    "license": [
+        {
+            "url": "https://creativecommons.org/licenses/by/4.0/",
+            "license": "CC-BY-4.0"
+        }
+    ],
+    "control_number": "44234",
+    "_oai": {
+        "updated": "2022-06-27T08:05:14Z",
+        "id": "oai:repo.scoap3.org:44234",
+        "sets": [
+            "PRD"
+        ]
+    },
+    "authors": [
+        {
+            "raw_name": "M. O. Astashenkov",
+            "affiliations": [
+                {
+                    "country": "Russia",
+                    "value": "Department of Physics, Lomonosov Moscow State University, 119991 Moscow, Russian Federation"
+                }
+            ],
+            "surname": "Astashenkov",
+            "given_names": "M. O.",
+            "full_name": "Astashenkov, M. O."
+        },
+        {
+            "raw_name": "A. V. Kisselev",
+            "affiliations": [
+                {
+                    "country": "Russia",
+                    "value": "A.A. Logunov Institute for High Energy Physics, NRC “Kurchatov Institute,” 142281 Protvino, Russian Federation"
+                }
+            ],
+            "surname": "Kisselev",
+            "given_names": "A. V.",
+            "full_name": "Kisselev, A. V."
+        }
+    ],
+    "year": "2018",
+    "_files": [
+        {
+            "checksum": "md5:4c09ac1ff99a34ba209f897f8d2ddaf0",
+            "filetype": "pdf",
+            "bucket": "a81b6b49-cd0f-442a-a3b1-3700e1207fd9",
+            "version_id": "bc4f8d25-e94b-4224-b941-ea0215ca1c31",
+            "key": "10.1103/PhysRevD.98.123009.pdf",
+            "size": 973062
+        },
+        {
+            "checksum": "md5:ae6fd48d3ede9a70fc2e1294bc74d144",
+            "filetype": "xml",
+            "bucket": "a81b6b49-cd0f-442a-a3b1-3700e1207fd9",
+            "version_id": "b49e7473-b509-4b21-a9e3-c3661715f6d3",
+            "key": "10.1103/PhysRevD.98.123009.xml",
+            "size": 125778
+        }
+    ],
+    "record_creation_date": "2018-12-14T18:15:09.062213",
+    "titles": [
+        {
+            "source": "APS",
+            "title": "Bound on a diffuse flux of ultrahigh energy neutrinos in the Arkani-Hamed–Dimopoulos–Dvali model"
+        }
+    ],
+    "collections": [
+        {
+            "primary": "HEP"
+        },
+        {
+            "primary": "Citeable"
+        },
+        {
+            "primary": "Published"
+        }
+    ],
+    "dois": [
+        {
+            "value": "10.1103/PhysRevD.98.123009"
+        }
+    ],
+    "arxiv_eprints": [
+        {
+            "categories": [
+                "hep-ph",
+                "astro-ph.HE"
+            ],
+            "value": "1804.02351"
+        }
+    ],
+    "publication_info": [
+        {
+            "journal_volume": "98",
+            "journal_title": "Physical Review D",
+            "material": "article",
+            "journal_issue": "12",
+            "year": 2018
+        }
+    ],
+    "$schema": "http://repo.qa.scoap3.org/schemas/hep.json",
+    "copyright": [
+        {
+            "statement": "Published by the American Physical Society",
+            "year": "2018"
+        }
+    ],
+    "abstracts": [
+        {
+            "source": "APS",
+            "value": "The search for downward-going and Earth-skimming ultrahigh energy cosmic neutrinos by the Surface Detector array of the Pierre Auger Observatory (PAO) is analyzed in a framework of the Arkani-Hamed–Dimopoulos–Dvali (ADD) model with <math><mi>n</mi></math> large extra dimensions under the assumption that the diffuse neutrino flux <math><mi>d</mi><msub><mi>N</mi><mi>ν</mi></msub><mo>/</mo><mi>d</mi><msub><mi>E</mi><mi>ν</mi></msub></math> has the form <math><mi>k</mi><msubsup><mi>E</mi><mi>ν</mi><mrow><mo>−</mo><mn>2</mn></mrow></msubsup></math> in the energy range <math><mrow><mn>1</mn><msup><mrow><mn>0</mn></mrow><mrow><mn>17</mn></mrow></msup><mi>–</mi><mn>2.5</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>19</mn></mrow></msup><mtext> </mtext><mtext> </mtext><mi>eV</mi></mrow></math>. The upper bound on the flux normalization <math><mi>k</mi></math> is obtained in the ADD model, taking into account that no neutrino events were found at the PAO. It is shown that for some values of <math><mi>n</mi></math> and (<math><mrow><mi>n</mi><mo>+</mo><mn>4</mn></mrow></math>)-dimensional Planck scale <math><msub><mi>M</mi><mi>D</mi></msub></math> our bound on <math><mi>k</mi></math> is more stringent than that of the Pierre Auger Collaboration. The lower bound on <math><msub><mi>M</mi><mi>D</mi></msub></math> as a function of <math><mi>n</mi></math> is obtained."
+        }
+    ],
+    "imprints": [
+        {
+            "date": "2018-12-14",
+            "publisher": "APS"
+        }
+    ],
+    "_created": "2018-12-14T17:16:23.731698+00:00"
+}

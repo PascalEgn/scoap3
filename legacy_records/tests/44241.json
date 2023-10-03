@@ -1,0 +1,126 @@
+{
+    "_updated": "2019-08-27T13:34:58.400276+00:00",
+    "page_nr": [
+        9
+    ],
+    "acquisition_source": {
+        "date": "2019-05-10T15:34:49.747385",
+        "source": "Hindawi",
+        "method": "Hindawi",
+        "submission_number": "5e780fa2732811e99fff02163e01809a"
+    },
+    "license": [
+        {
+            "url": "http://creativecommons.org/licenses/by/3.0/",
+            "license": "CC-BY-3.0"
+        }
+    ],
+    "control_number": "44241",
+    "_oai": {
+        "updated": "2019-05-10T13:43:52Z",
+        "id": "oai:repo.scoap3.org:44241",
+        "sets": [
+            "AHEP"
+        ]
+    },
+    "authors": [
+        {
+            "surname": "Kuksa",
+            "given_names": "Vladimir",
+            "raw_name": "Kuksa, Vladimir",
+            "affiliations": [
+                {
+                    "country": "Russia",
+                    "value": "Research Institute of Physics, Southern Federal University, 344090 Rostov-on-Don, Pr. Stachky 194, Russia"
+                }
+            ],
+            "full_name": "Kuksa, Vladimir",
+            "orcid": "0000-0002-9610-9873"
+        },
+        {
+            "surname": "Beylin",
+            "given_names": "Vitaly",
+            "raw_name": "Beylin, Vitaly",
+            "affiliations": [
+                {
+                    "country": "Russia",
+                    "value": "Research Institute of Physics, Southern Federal University, 344090 Rostov-on-Don, Pr. Stachky 194, Russia"
+                }
+            ],
+            "full_name": "Beylin, Vitaly",
+            "orcid": "0000-0002-9727-0116"
+        }
+    ],
+    "year": "2018",
+    "_files": [
+        {
+            "checksum": "md5:9d73ac93f98bdb19635a903f7b029e2d",
+            "filetype": "pdf",
+            "bucket": "83b5402b-7dc9-43fe-aa55-c13d078159f5",
+            "version_id": "3f33edb9-7302-4c1b-931c-ef9507bfd8a4",
+            "key": "10.1155/2018/8670954.pdf",
+            "size": 1389405
+        },
+        {
+            "checksum": "md5:ca72aadb51c0ae38eccbd3cb7c65f6cf",
+            "filetype": "xml",
+            "bucket": "83b5402b-7dc9-43fe-aa55-c13d078159f5",
+            "version_id": "49de3961-f513-4fa0-8c4d-484dc09359dd",
+            "key": "10.1155/2018/8670954.xml",
+            "size": 230488
+        }
+    ],
+    "record_creation_date": "2018-12-16T10:30:14.112855",
+    "titles": [
+        {
+            "source": "Hindawi",
+            "title": "Dark Matter in the Standard Model Extension with Singlet Quark"
+        }
+    ],
+    "collections": [
+        {
+            "primary": "Advances in High Energy Physics"
+        }
+    ],
+    "dois": [
+        {
+            "value": "10.1155/2018/8670954"
+        }
+    ],
+    "arxiv_eprints": [
+        {
+            "categories": [
+                "hep-ph"
+            ],
+            "value": "1809.09220v1"
+        }
+    ],
+    "publication_info": [
+        {
+            "page_start": "8670954",
+            "material": "article",
+            "journal_title": "Advances in High Energy Physics",
+            "year": 2018
+        }
+    ],
+    "$schema": "http://repo.scoap3.org/schemas/hep.json",
+    "copyright": [
+        {
+            "statement": "Copyright © 2018 Vitaly Beylin and Vladimir Kuksa.",
+            "year": "2018"
+        }
+    ],
+    "abstracts": [
+        {
+            "source": "Hindawi",
+            "value": "We analyze the possibility of hadron Dark Matter carriers consisting of singlet quark and the light standard one. It is shown that stable singlet quarks generate effects of new physics which do not contradict restrictions from precision electroweak data. The neutral and charged pseudoscalar low-lying states are interpreted as the Dark Matter particle and its mass-degenerated partner. We evaluate their masses and lifetime of the charged component and describe the potential asymptotes of low-energy interactions of these particles with nucleons and with each other. Some peculiarities of Sommerfeld enhancement effect in the annihilation process are also discussed."
+        }
+    ],
+    "imprints": [
+        {
+            "date": "2018-12-16",
+            "publisher": "Hindawi"
+        }
+    ],
+    "_created": "2018-12-16T09:30:14.747301+00:00"
+}

@@ -1,0 +1,148 @@
+{
+    "_updated": "2022-06-27T08:05:20.578054+00:00",
+    "page_nr": [
+        19
+    ],
+    "acquisition_source": {
+        "date": "2022-06-27T07:10:37.843092",
+        "source": "APS",
+        "method": "APS",
+        "submission_number": "9223d0b2f5e711ecbdeae2bc11667146"
+    },
+    "license": [
+        {
+            "url": "https://creativecommons.org/licenses/by/4.0/",
+            "license": "CC-BY-4.0"
+        }
+    ],
+    "control_number": "44237",
+    "_oai": {
+        "updated": "2022-06-27T08:05:20Z",
+        "id": "oai:repo.scoap3.org:44237",
+        "sets": [
+            "PRD"
+        ]
+    },
+    "authors": [
+        {
+            "raw_name": "Felix Karbstein",
+            "affiliations": [
+                {
+                    "country": "Germany",
+                    "value": "Helmholtz-Institut Jena, Fröbelstieg 3, D-07743 Jena, Germany"
+                },
+                {
+                    "country": "Germany",
+                    "value": "Theoretisch-Physikalisches Institut, Friedrich-Schiller-Universität Jena, Max-Wien-Platz 1, D-07743 Jena, Germany"
+                }
+            ],
+            "surname": "Karbstein",
+            "given_names": "Felix",
+            "full_name": "Karbstein, Felix"
+        },
+        {
+            "raw_name": "Marc Wagner",
+            "affiliations": [
+                {
+                    "country": "Germany",
+                    "value": "Goethe-Universität Frankfurt am Main, Institut für Theoretische Physik, Max-von-Laue-Straße 1, D-60438 Frankfurt am Main, Germany"
+                }
+            ],
+            "surname": "Wagner",
+            "given_names": "Marc",
+            "full_name": "Wagner, Marc"
+        },
+        {
+            "raw_name": "Michelle Weber",
+            "affiliations": [
+                {
+                    "country": "Germany",
+                    "value": "Goethe-Universität Frankfurt am Main, Institut für Theoretische Physik, Max-von-Laue-Straße 1, D-60438 Frankfurt am Main, Germany"
+                }
+            ],
+            "surname": "Weber",
+            "given_names": "Michelle",
+            "full_name": "Weber, Michelle"
+        }
+    ],
+    "year": "2018",
+    "_files": [
+        {
+            "checksum": "md5:661656fbf8787078389ee5e468bb3ad0",
+            "filetype": "pdf",
+            "bucket": "3b2e0a41-6ab4-4097-9392-39062544f2d9",
+            "version_id": "da710de7-b6b1-46d1-a2a9-f9f33633aab6",
+            "key": "10.1103/PhysRevD.98.114506.pdf",
+            "size": 528323
+        },
+        {
+            "checksum": "md5:bf5e4f2b682578c165c0bb1e9965a6c9",
+            "filetype": "xml",
+            "bucket": "3b2e0a41-6ab4-4097-9392-39062544f2d9",
+            "version_id": "aac58c16-270b-4b14-bbae-8a12a27a6008",
+            "key": "10.1103/PhysRevD.98.114506.xml",
+            "size": 392828
+        }
+    ],
+    "record_creation_date": "2018-12-14T19:30:19.493510",
+    "titles": [
+        {
+            "source": "APS",
+            "title": "Determination of <math><mrow><msubsup><mrow><mi>Λ</mi></mrow><mrow><mover><mrow><mi>MS</mi></mrow><mrow><mo>¯</mo></mrow></mover></mrow><mrow><mo>(</mo><msub><mrow><mi>n</mi></mrow><mrow><mi>f</mi></mrow></msub><mo>=</mo><mn>2</mn><mo>)</mo></mrow></msubsup></mrow></math> and analytic parametrization of the static quark-antiquark potential"
+        }
+    ],
+    "collections": [
+        {
+            "primary": "HEP"
+        },
+        {
+            "primary": "Citeable"
+        },
+        {
+            "primary": "Published"
+        }
+    ],
+    "dois": [
+        {
+            "value": "10.1103/PhysRevD.98.114506"
+        }
+    ],
+    "arxiv_eprints": [
+        {
+            "categories": [
+                "hep-ph",
+                "hep-lat"
+            ],
+            "value": "1804.10909"
+        }
+    ],
+    "publication_info": [
+        {
+            "journal_volume": "98",
+            "journal_title": "Physical Review D",
+            "material": "article",
+            "journal_issue": "11",
+            "year": 2018
+        }
+    ],
+    "$schema": "http://repo.qa.scoap3.org/schemas/hep.json",
+    "copyright": [
+        {
+            "statement": "Published by the American Physical Society",
+            "year": "2018"
+        }
+    ],
+    "abstracts": [
+        {
+            "source": "APS",
+            "value": "While lattice QCD allows for reliable results at small momentum transfers (large quark separations), perturbative QCD is restricted to large momentum transfers (small quark separations). The latter is determined up to a reference momentum scale <math><mi>Λ</mi></math>, which is to be provided from outside, e.g., from experiment or lattice QCD simulations. In this article, we extract <math><msub><mi>Λ</mi><mover><mi>MS</mi><mo>¯</mo></mover></msub></math> for QCD with <math><msub><mi>n</mi><mi>f</mi></msub><mo>=</mo><mn>2</mn></math> dynamical quark flavors by matching the perturbative static quark-antiquark potential in momentum space to lattice results in the intermediate momentum regime, where both approaches are expected to be applicable. In a second step, we combine the lattice and the perturbative results to provide a complete analytic parametrization of the static quark-antiquark potential in position space up to the string breaking scale. As an exemplary phenomenological application of our all-distances potential, we compute the bottomonium spectrum in the static limit."
+        }
+    ],
+    "imprints": [
+        {
+            "date": "2018-12-14",
+            "publisher": "APS"
+        }
+    ],
+    "_created": "2018-12-14T18:32:06.776802+00:00"
+}

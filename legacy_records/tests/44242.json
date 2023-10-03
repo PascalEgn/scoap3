@@ -1,0 +1,129 @@
+{
+    "_updated": "2019-08-27T13:34:58.723789+00:00",
+    "page_nr": [
+        10
+    ],
+    "acquisition_source": {
+        "date": "2019-05-10T15:34:50.692003",
+        "source": "Hindawi",
+        "method": "Hindawi",
+        "submission_number": "5e780fa2732811e99fff02163e01809a"
+    },
+    "license": [
+        {
+            "url": "http://creativecommons.org/licenses/by/3.0/",
+            "license": "CC-BY-3.0"
+        }
+    ],
+    "control_number": "44242",
+    "_oai": {
+        "updated": "2019-05-10T14:00:12Z",
+        "id": "oai:repo.scoap3.org:44242",
+        "sets": [
+            "AHEP"
+        ]
+    },
+    "dois": [
+        {
+            "value": "10.1155/2018/3085761"
+        }
+    ],
+    "year": "2018",
+    "_files": [
+        {
+            "checksum": "md5:28a3f3e26c420f09ad64e5f1f811bafb",
+            "filetype": "pdf",
+            "bucket": "ef3d727d-19bf-41c6-9389-e35bc9ca0799",
+            "version_id": "b401fc5c-48b3-4b35-aa32-5cfce585c3d4",
+            "key": "10.1155/2018/3085761.pdf",
+            "size": 1805865
+        },
+        {
+            "checksum": "md5:b6a74c9b8069c1ae0442de193521dfff",
+            "filetype": "xml",
+            "bucket": "ef3d727d-19bf-41c6-9389-e35bc9ca0799",
+            "version_id": "09e69bc2-15c1-4f0f-8a6e-7acb8dde40a8",
+            "key": "10.1155/2018/3085761.xml",
+            "size": 244752
+        }
+    ],
+    "record_creation_date": "2018-12-16T13:30:14.121091",
+    "titles": [
+        {
+            "source": "Hindawi",
+            "title": "Inflation in Gravity with Exponential Model"
+        }
+    ],
+    "collections": [
+        {
+            "primary": "Advances in High Energy Physics"
+        }
+    ],
+    "authors": [
+        {
+            "surname": "Zubair",
+            "given_names": "M.",
+            "raw_name": "Zubair, M.",
+            "affiliations": [
+                {
+                    "country": "Pakistan",
+                    "value": "Department of Mathematics, COMSATS University Islamabad, Lahore-Campus, Pakistan"
+                }
+            ],
+            "full_name": "Zubair, M.",
+            "orcid": "0000-0003-2227-788X"
+        },
+        {
+            "raw_name": "Kousar, Farzana",
+            "affiliations": [
+                {
+                    "country": "Pakistan",
+                    "value": "Department of Mathematics, COMSATS University Islamabad, Lahore-Campus, Pakistan"
+                }
+            ],
+            "surname": "Kousar",
+            "given_names": "Farzana",
+            "full_name": "Kousar, Farzana"
+        },
+        {
+            "raw_name": "Saleem, Rabia",
+            "affiliations": [
+                {
+                    "country": "Pakistan",
+                    "value": "Department of Mathematics, COMSATS University Islamabad, Lahore-Campus, Pakistan"
+                }
+            ],
+            "surname": "Saleem",
+            "given_names": "Rabia",
+            "full_name": "Saleem, Rabia"
+        }
+    ],
+    "publication_info": [
+        {
+            "page_start": "3085761",
+            "material": "article",
+            "journal_title": "Advances in High Energy Physics",
+            "year": 2018
+        }
+    ],
+    "$schema": "http://repo.scoap3.org/schemas/hep.json",
+    "copyright": [
+        {
+            "statement": "Copyright © 2018 Farzana Kousar et al.",
+            "year": "2018"
+        }
+    ],
+    "abstracts": [
+        {
+            "source": "Hindawi",
+            "value": "We are taking action of <math id=\"M2\"><mi>f</mi><mo>(</mo><mi>R</mi><mo>)</mo></math> gravity with a nonminimal coupling to a massive inflaton field. A <math id=\"M3\"><mi>f</mi><mo>(</mo><mi>R</mi><mo>,</mo><mi>ϕ</mi><mo>)</mo></math> model is chosen which leads to the scalar-tensor theory which can be transformed to Einstein frame by conformal transformation. To avoid the vagueness of the frame dependence, we evaluate the exact analytical solutions for inflationary era in Jordan frame and find a condition for graceful exit from inflation. Furthermore, we calculate the perturbed parameters (i.e., number of e-folds, slow-roll parameters, scalar and tensor power spectra, corresponding spectral indices, and tensor to scalar ratio). It is showed that the tensor power spectra lead to blue tilt for this model. The trajectories of the perturbed parameters are plotted to compare the results with recent observations."
+        }
+    ],
+    "imprints": [
+        {
+            "date": "2018-12-16",
+            "publisher": "Hindawi"
+        }
+    ],
+    "_created": "2018-12-16T12:30:33.496604+00:00"
+}

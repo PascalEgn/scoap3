@@ -1,0 +1,171 @@
+{
+    "_updated": "2022-06-27T08:08:25.329190+00:00",
+    "page_nr": [
+        13
+    ],
+    "acquisition_source": {
+        "date": "2022-06-27T07:10:37.901125",
+        "source": "APS",
+        "method": "APS",
+        "submission_number": "9223d0b2f5e711ecbdeae2bc11667146"
+    },
+    "license": [
+        {
+            "url": "https://creativecommons.org/licenses/by/4.0/",
+            "license": "CC-BY-4.0"
+        }
+    ],
+    "control_number": "44238",
+    "_oai": {
+        "updated": "2022-06-27T08:08:25Z",
+        "id": "oai:repo.scoap3.org:44238",
+        "sets": [
+            "PRD"
+        ]
+    },
+    "authors": [
+        {
+            "raw_name": "Laura Donnay",
+            "affiliations": [
+                {
+                    "country": "USA",
+                    "value": "Center for the Fundamental Laws of Nature, Harvard University 17 Oxford Street, Cambridge, Massachusetts 02138, USA"
+                },
+                {
+                    "country": "USA",
+                    "value": "Black Hole Initiative, Harvard University 20 Garden Street, Cambridge, Massachusetts 02138, USA"
+                }
+            ],
+            "surname": "Donnay",
+            "given_names": "Laura",
+            "full_name": "Donnay, Laura"
+        },
+        {
+            "raw_name": "Gaston Giribet",
+            "affiliations": [
+                {
+                    "country": "Argentina",
+                    "value": "Physics Department, University of Buenos Aires and IFIBA-CONICET Ciudad Universitaria, Pabellón 1, Buenos Aires 1428, Argentina"
+                },
+                {
+                    "country": "USA",
+                    "value": "Center for Cosmology and Particle Physics, New York University, 726 Broadway, New York, New York 10003, USA"
+                }
+            ],
+            "surname": "Giribet",
+            "given_names": "Gaston",
+            "full_name": "Giribet, Gaston"
+        },
+        {
+            "raw_name": "Hernán A. González",
+            "affiliations": [
+                {
+                    "country": "Austria",
+                    "value": "Institute for Theoretical Physics, TU Wien, Wiedner Hauptstr. 8-10, 1040 Vienna, Austria"
+                }
+            ],
+            "surname": "González",
+            "given_names": "Hernán A.",
+            "full_name": "González, Hernán A."
+        },
+        {
+            "raw_name": "Andrea Puhm",
+            "affiliations": [
+                {
+                    "country": "USA",
+                    "value": "Center for the Fundamental Laws of Nature, Harvard University 17 Oxford Street, Cambridge, Massachusetts 02138, USA"
+                },
+                {
+                    "country": "USA",
+                    "value": "Black Hole Initiative, Harvard University 20 Garden Street, Cambridge, Massachusetts 02138, USA"
+                },
+                {
+                    "country": "France",
+                    "value": "CPHT, Ecole Polytechnique, CNRS, 91128 Palaiseau, France"
+                }
+            ],
+            "surname": "Puhm",
+            "given_names": "Andrea",
+            "full_name": "Puhm, Andrea"
+        }
+    ],
+    "year": "2018",
+    "_files": [
+        {
+            "checksum": "md5:1939ab1ba4bca0a8dd5ef8bee7435cee",
+            "filetype": "pdf",
+            "bucket": "851bd7ac-2247-471f-bb94-8be7cec671c5",
+            "version_id": "436dd4c1-2ba4-4471-bc72-cf2f10962bd6",
+            "key": "10.1103/PhysRevD.98.124016.pdf",
+            "size": 281112
+        },
+        {
+            "checksum": "md5:a6366118c09a31de32be3173a42baff1",
+            "filetype": "xml",
+            "bucket": "851bd7ac-2247-471f-bb94-8be7cec671c5",
+            "version_id": "691dec89-cfd6-4e7b-9eb6-6d0282ebc357",
+            "key": "10.1103/PhysRevD.98.124016.xml",
+            "size": 298513
+        }
+    ],
+    "record_creation_date": "2018-12-14T21:00:14.705172",
+    "titles": [
+        {
+            "source": "APS",
+            "title": "Black hole memory effect"
+        }
+    ],
+    "collections": [
+        {
+            "primary": "HEP"
+        },
+        {
+            "primary": "Citeable"
+        },
+        {
+            "primary": "Published"
+        }
+    ],
+    "dois": [
+        {
+            "value": "10.1103/PhysRevD.98.124016"
+        }
+    ],
+    "arxiv_eprints": [
+        {
+            "categories": [
+                "hep-th"
+            ],
+            "value": "1809.07266"
+        }
+    ],
+    "publication_info": [
+        {
+            "journal_volume": "98",
+            "journal_title": "Physical Review D",
+            "material": "article",
+            "journal_issue": "12",
+            "year": 2018
+        }
+    ],
+    "$schema": "http://repo.qa.scoap3.org/schemas/hep.json",
+    "copyright": [
+        {
+            "statement": "Published by the American Physical Society",
+            "year": "2018"
+        }
+    ],
+    "abstracts": [
+        {
+            "source": "APS",
+            "value": "We compute the memory effect produced at the black hole horizon by a transient gravitational shock wave. As shown by Hawking, Perry, and Strominger (HPS) such a gravitational wave produces a deformation of the black hole geometry which from future null infinity is seen as a Bondi-Metzner-Sachs supertranslation. This results in a diffeomorphic but physically distinct geometry which differs from the original black hole by their charges at infinity. Here we give the complementary description of this physical process in the near-horizon region as seen by an observer hovering just outside the event horizon. From this perspective, in addition to a supertranslation the shock wave also induces a horizon superrotation. We compute the associated superrotation charge and show that its form agrees with the one obtained by HPS at infinity. In addition, there is a supertranslation contribution to the horizon charge, which measures the entropy change in the process. We then turn to electrically and magnetically charged black holes and generalize the near-horizon asymptotic symmetry analysis to Einstein-Maxwell theory. This reveals an additional infinite-dimensional current algebra that acts nontrivially on the horizon superrotations. Finally, we generalize the black hole memory effect to Reissner-Nordström black holes."
+        }
+    ],
+    "imprints": [
+        {
+            "date": "2018-12-14",
+            "publisher": "APS"
+        }
+    ],
+    "_created": "2018-12-14T20:02:19.948786+00:00"
+}

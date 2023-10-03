@@ -33,6 +33,14 @@ class Command(BaseCommand):
             help="Should the ArticleFiles entries get created?",
         )
 
+        parser.add_argument(
+            "--filename",
+            type=str,
+            default=None,
+            required=False,
+            help="Filename of specific file to migrate.",
+        )
+
     def handle(self, *args, **options):
         storage = storages["legacy-records"]
         amount_total = len(storage.listdir(options["path"])[1])
@@ -45,5 +53,8 @@ class Command(BaseCommand):
             index_range = [lower_index, upper_index]
             self.stdout.write(f"Sending task with index range {index_range}")
             migrate_legacy_records.delay(
-                options["path"], index_range, options["migrate_files"]
+                options["path"],
+                index_range,
+                options["migrate_files"],
+                options["filename"],
             )

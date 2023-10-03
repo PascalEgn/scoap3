@@ -1,0 +1,145 @@
+{
+    "_updated": "2022-06-27T08:04:56.189361+00:00",
+    "page_nr": [
+        9
+    ],
+    "acquisition_source": {
+        "date": "2022-06-27T07:10:37.783510",
+        "source": "APS",
+        "method": "APS",
+        "submission_number": "9223d0b2f5e711ecbdeae2bc11667146"
+    },
+    "license": [
+        {
+            "url": "https://creativecommons.org/licenses/by/4.0/",
+            "license": "CC-BY-4.0"
+        }
+    ],
+    "control_number": "44236",
+    "_oai": {
+        "updated": "2022-06-27T08:04:56Z",
+        "id": "oai:repo.scoap3.org:44236",
+        "sets": [
+            "PRD"
+        ]
+    },
+    "authors": [
+        {
+            "raw_name": "Wei Li",
+            "affiliations": [
+                {
+                    "country": "China",
+                    "value": "Siyuan Laboratory, Physics Department, Jinan University, Guangzhou 510632, China"
+                }
+            ],
+            "surname": "Li",
+            "given_names": "Wei",
+            "full_name": "Li, Wei"
+        },
+        {
+            "raw_name": "Shu Lin",
+            "affiliations": [
+                {
+                    "country": "China",
+                    "value": "School of Physics and Astronomy, Sun Yat-Sen University, Zhuhai 519082, China"
+                }
+            ],
+            "surname": "Lin",
+            "given_names": "Shu",
+            "full_name": "Lin, Shu"
+        },
+        {
+            "raw_name": "Jiajie Mei",
+            "affiliations": [
+                {
+                    "country": "China",
+                    "value": "School of Physics and Astronomy, Sun Yat-Sen University, Zhuhai 519082, China"
+                }
+            ],
+            "surname": "Mei",
+            "given_names": "Jiajie",
+            "full_name": "Mei, Jiajie"
+        }
+    ],
+    "year": "2018",
+    "_files": [
+        {
+            "checksum": "md5:7fa2de8997ee3f3054e93cee5d1ccb0d",
+            "filetype": "pdf",
+            "bucket": "d06af11a-0916-4f19-a803-82cee8b5ca73",
+            "version_id": "af052427-aeab-4812-90cd-de7099ea6fde",
+            "key": "10.1103/PhysRevD.98.114014.pdf",
+            "size": 407696
+        },
+        {
+            "checksum": "md5:45a0ada0f732914dd174d72ef14f8c81",
+            "filetype": "xml",
+            "bucket": "d06af11a-0916-4f19-a803-82cee8b5ca73",
+            "version_id": "235efda0-5259-4eb9-a4bf-9baf4e2addd1",
+            "key": "10.1103/PhysRevD.98.114014.xml",
+            "size": 219523
+        }
+    ],
+    "record_creation_date": "2018-12-14T19:30:19.480469",
+    "titles": [
+        {
+            "source": "APS",
+            "title": "Conductivities of magnetic quark-gluon plasma at strong coupling"
+        }
+    ],
+    "collections": [
+        {
+            "primary": "HEP"
+        },
+        {
+            "primary": "Citeable"
+        },
+        {
+            "primary": "Published"
+        }
+    ],
+    "dois": [
+        {
+            "value": "10.1103/PhysRevD.98.114014"
+        }
+    ],
+    "arxiv_eprints": [
+        {
+            "categories": [
+                "hep-th",
+                "hep-ph",
+                "nucl-th"
+            ],
+            "value": "1809.02178"
+        }
+    ],
+    "publication_info": [
+        {
+            "journal_volume": "98",
+            "journal_title": "Physical Review D",
+            "material": "article",
+            "journal_issue": "11",
+            "year": 2018
+        }
+    ],
+    "$schema": "http://repo.qa.scoap3.org/schemas/hep.json",
+    "copyright": [
+        {
+            "statement": "Published by the American Physical Society",
+            "year": "2018"
+        }
+    ],
+    "abstracts": [
+        {
+            "source": "APS",
+            "value": "In the presence of a strong magnetic field, the quark gluon plasma is magnetized, leading to anisotropic transport coefficients. In this work, we focus on the effect of magnetization on electric conductivity, ignoring the possible contribution from the axial anomaly. We generalize longitudinal and transverse conductivities to finite frequencies. For transverse conductivity, a separation of contribution from fluid velocity is needed. We study the dependence of the conductivities on the magnetic field and frequency using a holographic magnetic brane model. The longitudinal conductivity scales roughly linearly in the magnetic field, while the transverse conductivity is rather insensitive to the magnetic field. Furthermore, we find the conductivities can be significantly enhanced at large frequency. This can possibly extend the lifetime of the magnetic field, which is a key component of the chiral magnetic effect."
+        }
+    ],
+    "imprints": [
+        {
+            "date": "2018-12-14",
+            "publisher": "APS"
+        }
+    ],
+    "_created": "2018-12-14T18:31:56.649425+00:00"
+}

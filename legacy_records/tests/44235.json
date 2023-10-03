@@ -1,0 +1,137 @@
+{
+    "_updated": "2022-06-27T08:05:28.892314+00:00",
+    "page_nr": [
+        8
+    ],
+    "acquisition_source": {
+        "date": "2022-06-27T07:10:37.724504",
+        "source": "APS",
+        "method": "APS",
+        "submission_number": "9223d0b2f5e711ecbdeae2bc11667146"
+    },
+    "license": [
+        {
+            "url": "https://creativecommons.org/licenses/by/4.0/",
+            "license": "CC-BY-4.0"
+        }
+    ],
+    "control_number": "44235",
+    "_oai": {
+        "updated": "2022-06-27T08:05:28Z",
+        "id": "oai:repo.scoap3.org:44235",
+        "sets": [
+            "PRD"
+        ]
+    },
+    "authors": [
+        {
+            "raw_name": "Jung Keun Ahn",
+            "affiliations": [
+                {
+                    "country": "South Korea",
+                    "value": "Department of Physics, Korea University, Seoul 02841, Republic of Korea"
+                }
+            ],
+            "surname": "Ahn",
+            "given_names": "Jung Keun",
+            "full_name": "Ahn, Jung Keun"
+        },
+        {
+            "raw_name": "Seung-il Nam",
+            "affiliations": [
+                {
+                    "country": "South Korea",
+                    "value": "Department of Physics and Institute for Radiation Science & Technology (IRST), Pukyong National University (PKNU), Busan 608-737, Republic of Korea"
+                },
+                {
+                    "country": "South Korea",
+                    "value": "Asia Pacific Center for Theoretical Physics (APCTP), Pohang 790-784, Republic of Korea"
+                }
+            ],
+            "surname": "Nam",
+            "given_names": "Seung-il",
+            "full_name": "Nam, Seung-il"
+        }
+    ],
+    "year": "2018",
+    "_files": [
+        {
+            "checksum": "md5:84531bd4a2302d3e843b4725f95e27a6",
+            "filetype": "pdf",
+            "bucket": "fc4068b4-2e37-41e8-b174-169119de095c",
+            "version_id": "d36cbb5f-0707-4a43-9b9b-0916d46318e4",
+            "key": "10.1103/PhysRevD.98.114012.pdf",
+            "size": 1776687
+        },
+        {
+            "checksum": "md5:533ae7b395a19ae19b1301b0929f8421",
+            "filetype": "xml",
+            "bucket": "fc4068b4-2e37-41e8-b174-169119de095c",
+            "version_id": "e07e528a-f3c0-45e9-b6c7-c8bbcc37f019",
+            "key": "10.1103/PhysRevD.98.114012.xml",
+            "size": 204301
+        }
+    ],
+    "record_creation_date": "2018-12-14T19:00:14.266501",
+    "titles": [
+        {
+            "source": "APS",
+            "title": "<math><mi>Ξ</mi><mo>(</mo><mn>1690</mn><msup><mo>)</mo><mo>−</mo></msup></math> production in the <math><mrow><msup><mrow><mi>K</mi></mrow><mrow><mo>−</mo></mrow></msup><mi>p</mi><mo>→</mo><msup><mrow><mi>K</mi></mrow><mrow><mo>+</mo></mrow></msup><msup><mrow><mi>K</mi></mrow><mrow><mo>−</mo></mrow></msup><mi>Λ</mi></mrow></math> reaction process near threshold"
+        }
+    ],
+    "collections": [
+        {
+            "primary": "HEP"
+        },
+        {
+            "primary": "Citeable"
+        },
+        {
+            "primary": "Published"
+        }
+    ],
+    "dois": [
+        {
+            "value": "10.1103/PhysRevD.98.114012"
+        }
+    ],
+    "arxiv_eprints": [
+        {
+            "categories": [
+                "hep-ph",
+                "hep-ex",
+                "nucl-th"
+            ],
+            "value": "1809.07765"
+        }
+    ],
+    "publication_info": [
+        {
+            "journal_volume": "98",
+            "journal_title": "Physical Review D",
+            "material": "article",
+            "journal_issue": "11",
+            "year": 2018
+        }
+    ],
+    "$schema": "http://repo.qa.scoap3.org/schemas/hep.json",
+    "copyright": [
+        {
+            "statement": "Published by the American Physical Society",
+            "year": "2018"
+        }
+    ],
+    "abstracts": [
+        {
+            "source": "APS",
+            "value": "We investigate <math><mrow><mi>Ξ</mi><mo>(</mo><mn>1690</mn><msup><mrow><mo>)</mo></mrow><mrow><mo>−</mo></mrow></msup></mrow></math> production from the <math><mrow><msup><mrow><mi>K</mi></mrow><mrow><mo>−</mo></mrow></msup><mi>p</mi><mo>→</mo><msup><mrow><mi>K</mi></mrow><mrow><mo>+</mo></mrow></msup><msup><mrow><mi>K</mi></mrow><mrow><mo>−</mo></mrow></msup><mi>Λ</mi></mrow></math> reaction within the effective Lagrangian approach at the tree-level Born approximation. We consider the <math><mi>s</mi></math>- and <math><mi>u</mi></math>-channel <math><mi>Σ</mi><mo>/</mo><mi>Λ</mi></math> ground states and resonances for the <math><mi>Ξ</mi></math>-pole contributions, in addition to the <math><mi>s</mi></math>-channel <math><mi>Λ</mi></math>, <math><mi>u</mi></math>-channel nucleon pole, and <math><mi>t</mi></math>-channel <math><msup><mi>K</mi><mo>−</mo></msup></math> exchange for the <math><mi>ϕ</mi></math>-pole contributions. The <math><mi>Ξ</mi></math> pole includes <math><mi>Ξ</mi><mo>(</mo><mn>1320</mn><mo>)</mo></math>, <math><mi>Ξ</mi><mo>(</mo><mn>1535</mn><mo>)</mo></math>, <math><mi>Ξ</mi><mo>(</mo><mn>1690</mn><mo>)</mo><mo>(</mo><msup><mi>J</mi><mi>p</mi></msup><mo>=</mo><mn>1</mn><mo>/</mo><msup><mn>2</mn><mo>−</mo></msup><mo>)</mo></math>, and <math><mi>Ξ</mi><mo>(</mo><mn>1820</mn><mo>)</mo><mo>(</mo><msup><mi>J</mi><mi>p</mi></msup><mo>=</mo><mn>3</mn><mo>/</mo><msup><mn>2</mn><mo>−</mo></msup><mo>)</mo></math>. We calculate the Dalitz plot density of (<math><mrow><msup><mrow><mi>d</mi></mrow><mrow><mn>2</mn></mrow></msup><mi>σ</mi><mo>/</mo><mi>d</mi><msub><mrow><mi>M</mi></mrow><mrow><msup><mrow><mi>K</mi></mrow><mrow><mo>+</mo></mrow></msup><msup><mrow><mi>K</mi></mrow><mrow><mo>−</mo></mrow></msup></mrow></msub><mi>d</mi><msub><mrow><mi>M</mi></mrow><mrow><msup><mrow><mi>K</mi></mrow><mrow><mo>−</mo></mrow></msup><mi>Λ</mi></mrow></msub></mrow></math> at <math><mrow><mn>4.2</mn><mtext> </mtext><mtext> </mtext><mi>GeV</mi><mo>/</mo><mi>c</mi></mrow></math>) and the total cross sections for the <math><mrow><msup><mrow><mi>K</mi></mrow><mrow><mo>−</mo></mrow></msup><mi>p</mi><mo>→</mo><msup><mrow><mi>K</mi></mrow><mrow><mo>+</mo></mrow></msup><msup><mrow><mi>K</mi></mrow><mrow><mo>−</mo></mrow></msup><mi>Λ</mi></mrow></math> reaction near the threshold. The calculation results are in good agreement with previously acquired experimental data. Using the parameters from the fit, we present the total and differential cross sections for the two-body <math><mrow><msup><mrow><mi>K</mi></mrow><mrow><mo>−</mo></mrow></msup><mi>p</mi><mo>→</mo><msup><mrow><mi>K</mi></mrow><mrow><mo>+</mo></mrow></msup><mi>Ξ</mi><mo>(</mo><mn>1690</mn><msup><mrow><mo>)</mo></mrow><mrow><mo>−</mo></mrow></msup></mrow></math> reaction near the threshold. In our calculation, a strong enhancement at backward <math><msup><mi>K</mi><mo>+</mo></msup></math> angles is predicted because of the dominant <math><mi>u</mi></math>-channel contribution. We also demonstrate that the Dalitz plot analysis for <math><mrow><msub><mrow><mi>p</mi></mrow><mrow><msup><mrow><mi>K</mi></mrow><mrow><mo>−</mo></mrow></msup></mrow></msub><mo>=</mo><mn>1.915</mn><mi>–</mi><mn>2.065</mn><mtext> </mtext><mtext> </mtext><mi>GeV</mi><mo>/</mo><mi>c</mi></mrow></math> enables us to access direct information regarding <math><mi>Ξ</mi><mo>(</mo><mn>1690</mn><msup><mo>)</mo><mo>−</mo></msup></math> production, which can be tested by future <math><msup><mi>K</mi><mo>−</mo></msup></math> beam experiments. The possible spin-parity states of <math><mi>Ξ</mi><mo>(</mo><mn>1690</mn><msup><mo>)</mo><mo>−</mo></msup></math> are briefly discussed as well."
+        }
+    ],
+    "imprints": [
+        {
+            "date": "2018-12-14",
+            "publisher": "APS"
+        }
+    ],
+    "_created": "2018-12-14T18:01:40.744391+00:00"
+}
